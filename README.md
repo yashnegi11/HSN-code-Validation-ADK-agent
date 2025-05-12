@@ -55,10 +55,9 @@ This project implements an **intelligent agent** for validating **HSN (Harmonize
 
 HSN-Validation-Agent/
 │
-├── hsn\_validation\_agent.ipynb     # Main Colab notebook
-├── HSN\_Master\_Data.xlsx           # Master dataset (uploaded manually)
+├── HSNcodeValidationagent.ipynb     # Main Colab notebook
+├── HSN_Master_Data.xlsx           # Master dataset (uploaded manually)
 ├── README.md                      # This documentation
-└── docs/                          # (Optional) Design explanation
 
 ````
 
